@@ -3,6 +3,8 @@
 
 public class SDKClass {
     
+    public init() {}
+    
     public func sdkFirstMethod() {
         print("Preeti from first SDK Method")
     }
